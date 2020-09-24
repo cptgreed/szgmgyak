@@ -1,2 +1,2 @@
 # szgmgyak
-Első ripo
+Elso ripo
